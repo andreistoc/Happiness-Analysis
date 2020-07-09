@@ -9,3 +9,5 @@ Expected Submission We want the final code to be submitted on Github and a demo 
 Please use comments to explicit the code.  The solution should contain the correlation between the factors discovered and the happiness score of the data-set (the actual number).  Any charts explaining this correlation will also help.  Evaluation The best solutions will both have a good correlation score, but are also creative and explain the work well.
 
 ### Solution is in Happiness Analysis.ipynb
+
+Normally .ipynb files are rendered by Github directly in the browser, but I saw that it can fail sometimes, So I attached a .pdf as well.
